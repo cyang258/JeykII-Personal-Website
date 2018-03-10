@@ -3,7 +3,7 @@ layout:     post
 title:      My first App-My Tiny App
 date:       2017-12-08
 author:     Chun Yang
-summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
+summary:    My tiny app is a full stack web app for shorten long URLs.
 categories: projects
 tags:
  - my
