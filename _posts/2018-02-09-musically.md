@@ -7,9 +7,9 @@ summary:    A sequencer website allows users to compose their favourite loops.
 categories: Projects
 thumbnail: headphones
 tags:
- -music
- -Postgresql
- -React
+ - music
+ - Postgresql
+ - React
 ---
 Today is demo day for our final project. Same as mid-term, we have to pick a partner to work together. So my partner and I decided to do something interesting which is creating a broswer synthesizer, and we name it Musically.
 
