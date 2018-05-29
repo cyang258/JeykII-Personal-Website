@@ -25,7 +25,7 @@ As you can see, the application has three features right now: Recipe Book, Menu 
 
 Recipe Book feature allows users to save their own recipes, they can add a description or memo and quantity of the ingredients. once they save the recipe, then the recipe is be able to add in menu.
 
-![my recipe book add menu screenshot]({{ "/favicons/my-recipe-book/add_to_Menu.png"|https://github.com/cyang258/Recipe-book/blob/master/lib/image/Add_to_Menu.png}})
+![my recipe book add menu screenshot]({{ "/favicons/my-recipe-book/Add_to_Menu.png"|https://github.com/cyang258/Recipe-book/blob/master/lib/image/Add_to_Menu.png}})
 
 ![my recipe book menu screenshot]({{ "/favicons/my-recipe-book/Menu.png"|https://github.com/cyang258/Recipe-book/blob/master/lib/image/Menu.png}})
 
