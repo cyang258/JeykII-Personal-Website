@@ -4,6 +4,7 @@
 	<title>Hi, I am Chun Yang</title>
 	<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Playfair+Display|Dokdo" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="index.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
@@ -40,7 +41,20 @@
 			<p>I am a Full Stack Developer experienced with many different technology stack. I am a fast learner who can pick up new technology stack and program languages in a small amount of time and a problem solver who has passion for out-of-the-ordinary solutions while developing clean, modular code. I am proficient in Web Development which was proven during my work and also was recognized by project managers and colleagues.</p>
 			<button><a href="Assets/Chun_Yang_Resume.pdf" target='_blank' style='text-decoration: none; color: inherit;'>Download My CV</a></button>
 			<br />
-			<button>Contact Me</button>
+			<button onclick="document.getElementById('id01').style.display='block'">Contact Me</button>
+			<div id="id01" class="w3-modal">
+			  <div class="w3-modal-content w3-animate-top w3-card-4">
+			    <header class="w3-container w3-teal"> 
+			      <span onclick="document.getElementById('id01').style.display='none'" 
+			      class="w3-button w3-display-topright" style="font-size: 1.7em;">&times;</span>
+			      <h3 style="text-align: center;">My Contact Info</h2>
+			    </header>
+			    <div class="w3-container" style="height: 50vh">
+			      <p style="margin-top: 5%; margin-left: 10%; font-family: sans-serif;">Email: canadachunyang@gmail.com</p>
+			      <p style="margin-top: 5%; margin-left: 10%; font-family: sans-serif;">Phone: (519)694-8957</p>
+			    </div>
+			  </div>
+			</div>
 		</div>
 		
 		<div class='skills'>
